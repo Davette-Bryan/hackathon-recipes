@@ -1,0 +1,19 @@
+WPRM - wordpress recipe maker
+What is WPRM?
+WP Recipe Maker is the easy recipe plugin that everyone can use. An easy workflow allows you to add recipes to any post or page with automatic JSON-LD metadata for your recipes. This metadata will improve your SEO and get you more visitors!
+
+
+japchae: https://mykoreankitchen.com/korean-glass-noodle-stir-fry-japchae/#wprm-recipe-container-9181
+- class: wprm-recipe-container
+- id: wprm-recipe-container-9181
+
+keto carrot cake:
+https://www.wholesomeyum.com/recipes/low-carb-keto-sugar-free-carrot-cake-recipe/
+- class: same
+id: -23325
+
+worst choc chip cookies
+https://sugarspunrun.com/worst-chocolate-chip-cookies/#wprm-recipe-container-8173
+- class: same
+id: -8173
+- beneath has h3 tag labeled 'ingredients'

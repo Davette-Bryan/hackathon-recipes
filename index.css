@@ -1,0 +1,23 @@
+/*.beautText {
+    color: yellow;
+    text-shadow: 2px 2px 5px white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 24px;
+    letter-spacing: 4px;
+    font-weight: bold;
+}
+
+/* The animation code 
+@keyframes colorAnim {
+    0%   {color: red;}
+    25%  {color: yellow;}
+    50%  {color: blue;}
+    100% {color: green;}
+}
+  
+  /* The element to apply the animation to 
+div {
+    animation-name: colorAnim;
+    animation-duration: 1s;
+    animation-iteration-count: infinite; 
+}
